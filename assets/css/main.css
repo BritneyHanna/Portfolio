@@ -1786,7 +1786,8 @@ input[type="submit"].style1:hover,
 input[type="reset"].style1:hover,
 button.style1:hover,
 .button.style1:hover {
-  background-color: rgb(172, 162, 21);
+  background-color: rgb(35, 35, 43);
+ 
 }
 
 input[type="button"].style1:active,
@@ -2255,7 +2256,7 @@ ul.actions.special {
   color: rgba(255, 255, 255, 0.75);
   text-transform: uppercase;
   text-decoration: none;
-  font-size: 0.7em;
+  font-size: 0.8em;
   letter-spacing: 0.25em;
   height: 5em;
   line-height: 5em;
